@@ -15,7 +15,6 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
     <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="Javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> </a>
-    <a href="https://soliditylang.org/" target="_blank"> <img title="Solidity" width="43" src="https://unpkg.com/simple-icons@v5/icons/solidity.svg"> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
