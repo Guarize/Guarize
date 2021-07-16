@@ -14,7 +14,10 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
     <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
     <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="Javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> </a>
+    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="Javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> 
+    </a>
+    <img title="Solidity" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg" />
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -29,19 +32,10 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
 ## My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guarize&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guarize&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarize&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Guarize's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Guarize&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
@@ -51,4 +45,4 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
 </p>
 
 # Guarize
-# Guarize
+
