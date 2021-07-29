@@ -44,8 +44,3 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
 <a href="https://www.linkedin.com/in/pedroguarize" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-<br/>
-
-# Guarize
-
