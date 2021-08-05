@@ -1,6 +1,6 @@
 clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
-<h3 align="center">I'm a passionate Full Stack Developer Student from Brazil.</h3>
 
+<h3 align="center">I'm a passionate Full Stack Developer Student from Brazil.</h3>
 
 ## About Me
 
@@ -19,19 +19,23 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
     <img title="Solidity" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg" />
 
 </p>
-<br/>
+<!-- <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guarize's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Guarize&theme=dark&hide_border=true"/>
     </a>
-</p>
+</p> -->
 
 ## My Github Stats
 
   <br/>
+  <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guarize&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+  <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarize&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -39,6 +43,7 @@ clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/pedroguarize" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
