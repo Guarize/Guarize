@@ -1,4 +1,4 @@
-clear<h1 align="center">Hi, my name is Pedro Guarize</h1>
+<h1 align="center">Hi, my name is Pedro Guarize</h1>
 
 <h3 align="center">I'm a passionate Full Stack Developer Student from Brazil.</h3>
 
