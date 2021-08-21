@@ -16,16 +16,10 @@
     <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="Javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> 
     </a>
-    <img title="Solidity" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg" />
+    <a href="https://icons8.com/icon/84710/bootstrap" target="_blank"><img title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+    <a href="https://icons8.com/icon/40253/jquery" target="_blank"><img title="jQuery" src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" width="48px"/></a>
 
 </p>
-<!-- <br/>
-
-<!-- <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guarize's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Guarize&theme=dark&hide_border=true"/>
-    </a>
-</p> -->
 
 ## My Github Stats
 
