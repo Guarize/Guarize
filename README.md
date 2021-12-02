@@ -4,7 +4,7 @@
 
 ## About Me
 
-- I'm currently learning **Web Development Fundamentals** at Trybe and **Ethereum Smart Contract Programming** at Ivan on Tech Academy.
+- I'm currently learning **Front-end Development** at Trybe.
 
 - How to reach me **pedroguarize@hotmail.com**
 
@@ -14,11 +14,12 @@
     <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
     <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="Javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> 
+    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> 
     </a>
+    <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="48px" title="React.js"/></a>
+    <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/></a>
     <a href="https://icons8.com/icon/84710/bootstrap" target="_blank"><img title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a href="https://icons8.com/icon/40253/jquery" target="_blank"><img title="jQuery" src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" width="48px"/></a>
-
+    
 </p>
 
 ## My Github Stats
@@ -32,7 +33,6 @@
   </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 <br/>
 
