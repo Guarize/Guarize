@@ -25,10 +25,10 @@
 ## My Github Stats
 
   <br/>
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guarize&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarize&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
