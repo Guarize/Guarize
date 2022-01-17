@@ -4,7 +4,9 @@
 
 ## About Me
 
-- I'm currently learning **Front-end Development** at Trybe.
+- ~~I'm currently learning **Front-end Development** at Trybe~~. :white_check_mark:
+
+- I'm currently learning **Back-end Development** at Trybe.
 
 - How to reach me **pedroguarize@hotmail.com**
 
