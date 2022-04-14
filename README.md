@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Pedro Guarize</h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer Student from Brazil.</h3>
+<h3 align="center">I'm a passionate Front-end Developer from Brazil.</h3>
 
 ## About Me
 
@@ -8,22 +8,16 @@
 
 - I'm currently learning **Back-end Development** at Trybe.
 
-- How to reach me **pedroguarize@hotmail.com**
-
 ## Languages and Tools:
 
-<p align="left"> 
-  <a href="https://icons8.com/icon/20906/git" target="_blank"><img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/></a>
-  <a href="https://icons8.com/icon/20909/html-5" target="_blank"><img title="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-  <a href="https://icons8.com/icon/21278/css3" target="_blank"><img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass"><img title="Sass" src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-  <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"><img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-  </a>
-  <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img title="React.js" src="https://img.icons8.com/officel/80/000000/react.png" width="48px" /></a>
-  <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img title="Redux" src="https://img.icons8.com/color/48/000000/redux.png" /></a>
-  <a href="https://icons8.com/icon/84710/bootstrap" target="_blank"><img title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
-  <a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects"><img title="Jest" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/></a>
-  <a href="https://imgbb.com/"><img title="React Testing Library" width="48px" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library"></a>
+<p align="left">
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whites) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 </p>
 
 ## My Github Stats
@@ -35,9 +29,6 @@
   <p align="left">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarize&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 <br/>
 
 ## Connect with me:
