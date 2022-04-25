@@ -1,13 +1,22 @@
 <h1 align="center">Hi, my name is Pedro Guarize</h1>
 
-<h3 align="center">I'm a passionate Front-end Developer</h3>
+<h3 align="center">I'm a passionate Front-end Developer based in Brazil</h3>
+
+<br />
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-2e2e2e?style=for-the-badge)](https://pedroguarize.vercel.app/)
+
+</div>
 
 ## About Me
 
-- 🌍 I'm based in Brazil
-- ✉️ You can contact me at [pedroguarize@gmail.com](mailto:pedroguarize@gmail.com)
+- You can contact me at [pedroguarize@gmail.com](mailto:pedroguarize@gmail.com)
 
-- 🧠 I'm currently learning **Back-end Development** at [Trybe](https://www.betrybe.com/).
+- I'm currently learning **Back-end Development** at [Trybe](https://www.betrybe.com/).
+
+<br />
 
 ## Languages and Tools:
 
@@ -20,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whites) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
+
+<br />
 
 ## My Github Stats
 
